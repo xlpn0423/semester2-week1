@@ -1,5 +1,6 @@
 -- List all students who enrolled in the year 2022.
--- Expected Columns:1|Maurice|Whitehead|2022
+-- Expected Columns:
+1|Maurice|Whitehead|2022
 8|Judith|Graham|2022
 26|Dennis|Gonzalez|2022
 29|Joshua|Booker|2022
